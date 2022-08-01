@@ -1,7 +1,7 @@
-# Vue CRM practice
+# Vue CRM practice (Russian)
 
 ## What is the project itself:
-```
+
 In this project I realized classic personal finance managing fuctionality. Such as:
 
 - Bills
@@ -13,7 +13,6 @@ In this project I realized classic personal finance managing fuctionality. Such 
 - Planning
 
 - Pie-chart
-```
 
 ## What I used in this project: 
 ```
@@ -25,3 +24,5 @@ In this project I realized classic personal finance managing fuctionality. Such 
 
 - Vuelidate
 ```
+
+## IMPORTANT! The project is in Russian language!

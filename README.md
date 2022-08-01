@@ -1,19 +1,9 @@
-# vue-practice-crm
+# Vue CRM practice
 
-## Project setup
+## What I used in this project: 
 ```
-npm install
+Vue 3 Options API (Vuex, Vue router)
+Firebase (database, authorization)
+Materialize CSS
+Vuelidate
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
